@@ -1,5 +1,5 @@
 # Blog-App-
-Blog Application to cater blogging tasks
+Blog Application to cater blogging tasks using ReactJS , Tailwind & Firebase
 
 Features:  
 
